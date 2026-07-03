@@ -1,16 +1,15 @@
 # 🛒 Amazon Website Clone
 
-A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This project focuses on recreating the layout and styling of Amazon's homepage to strengthen frontend development skills.
+A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This project recreates the layout and styling of Amazon's homepage to strengthen frontend development skills and gain hands-on experience with modern web design.
 
-> **Note:** This project is created for educational purposes only and is not affiliated with or endorsed by Amazon.
+> **Disclaimer:** This project is created **for educational purposes only** and is **not affiliated with, endorsed by, or associated with Amazon**.
 
 ---
 
 ## 📸 Preview
 
-(Add a screenshot of your project here)
+<img width="1536" height="960" alt="Screenshot 2026-07-03 173437" src="https://github.com/user-attachments/assets/c5f3b899-7169-40d0-874e-a2b3c30e6f2c" />
 
-Example:
 
 ![Amazon Clone Screenshot](images/preview.png)
 
@@ -18,29 +17,29 @@ Example:
 
 ## 🚀 Features
 
-- Responsive Navigation Bar
-- Amazon-style Search Bar
-- Hero Banner Section
-- Product Cards
-- Multiple Shopping Categories
-- Footer Section
-- Hover Effects
-- Clean & Modern UI
-- Mobile-Friendly Layout (if responsive)
+- 🧭 Responsive Navigation Bar
+- 🔍 Amazon-style Search Bar
+- 🖼️ Hero Banner Section
+- 🛍️ Product Cards & Shopping Sections
+- 📦 Multiple Category Boxes
+- 📄 Footer Section
+- ✨ Hover Effects
+- 🎨 Clean & Modern UI
+- 📱 Responsive Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+- **HTML5**
+- **CSS3**
 
 ---
 
 ## 📂 Project Structure
 
-```
-Amazon-Clone/
+```text
+Amazon-Website-Clone/
 │
 ├── index.html
 ├── style.css
@@ -55,18 +54,18 @@ Amazon-Clone/
 
 ## 🎯 Learning Objectives
 
-This project helped me learn:
+Through this project, I learned:
 
 - Semantic HTML
 - CSS Selectors
+- CSS Box Model
 - Flexbox
 - CSS Grid
 - Positioning
-- Box Model
-- Responsive Design
+- Responsive Web Design
 - Navigation Bar Design
 - UI Layout Development
-- Hover Effects
+- Hover Effects & Styling
 
 ---
 
@@ -81,21 +80,23 @@ This project helped me learn:
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ Getting Started
 
-1. Clone this repository
-
-```bash
-git clone https://github.com/yourusername/amazon-clone.git
-```
-
-2. Navigate to the project folder
+### 1️⃣ Clone the Repository
 
 ```bash
-cd amazon-clone
+git clone https://github.com/the-shuaibrai01/amazon-website-clone.git
 ```
 
-3. Open `index.html` in your browser.
+### 2️⃣ Navigate to the Project Folder
+
+```bash
+cd amazon-website-clone
+```
+
+### 3️⃣ Run the Project
+
+Simply open **index.html** in your preferred web browser.
 
 ---
 
@@ -104,10 +105,10 @@ cd amazon-clone
 - Add JavaScript functionality
 - Product Slider
 - Shopping Cart
-- Login Page
+- Login & Signup Pages
 - Search Suggestions
 - Dark Mode
-- Responsive Navigation Menu
+- Responsive Mobile Navigation
 - Product Details Page
 - Backend Integration
 - API Integration
@@ -127,33 +128,42 @@ cd amazon-clone
 ---
 
 ## 📷 Screenshots
-<img width="1536" height="960" alt="image" src="https://github.com/user-attachments/assets/8441518c-0046-4d4a-b33a-0c2116cb9363" />
 
+### 🏠 Homepage
 
-
-### Homepage
-
-<img width="1536" height="960" alt="image" src="https://github.com/user-attachments/assets/4da221e3-14ea-41d9-b32d-04d8ed3429ff" />
+<img width="1536" height="960" alt="Screenshot 2026-07-03 173918" src="https://github.com/user-attachments/assets/7593d870-88e0-4b95-b466-283758a9e92e" />
 
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 About the Developer
 
 **Shuaib Rai**
 
-- GitHub: https://github.com/theshuaibrai01
-- www.linkedin.com/in/shuaib-rai-370108376
-- instagram :https://www.instagram.com/the_shuaibrai01/#
+🎓 B.Tech Computer Science Student | Frontend Developer | Aspiring Full Stack Developer
+
+I enjoy building real-world web projects and continuously improving my development skills through hands-on practice.
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 **GitHub:** https://github.com/the-shuaibrai01
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shuaib-rai-370108376/
+- 📸 **Instagram:** https://instagram.com/the_shuaibrai01
 
 ---
 
 ## ⭐ Support
 
-If you like this project, don't forget to **Star ⭐ the repository**.
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
+
+Your support motivates me to build more open-source projects and share my learning journey.
 
 ---
 
 ## 📜 License
 
-This project is created for **educational purposes only** and is **not intended for commercial use**.
+This project is created **for educational purposes only** and is **not intended for commercial use**.
+
+© 2026 Shuaib Rai. All Rights Reserved.
