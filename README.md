@@ -142,8 +142,9 @@ cd amazon-clone
 
 **Shuaib Rai**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/theshuaibrai01
+- www.linkedin.com/in/shuaib-rai-370108376
+- instagram :https://www.instagram.com/the_shuaibrai01/#
 
 ---
 
